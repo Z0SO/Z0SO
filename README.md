@@ -1,14 +1,34 @@
-## Hi there 👋
+# ¡Bienvenido a mi perfil de GitHub! 👋
 
-**Z0SO/Z0SO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
 
-Here are some ideas to get you started:
+Hola, soy Z0SO. Soy un entusiasta de la programación y la ciberseguridad. Aquí te dejo un poco sobre mí y mis intereses:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- **Mate**: Una bebida que adoro.
+- **Linux**: Mi sistema operativo favorito.
+- **Bash**: Disfruto automatizando tareas con scripts de Bash.
+- **C**: Me apasiona la programación de bajo nivel.
+- **Ciberseguridad**: Un área que me apasiona profundamente.
+- **Rust**: Un lenguaje que estoy aprendiendo y me encanta.
+
+## Tecnologías de Desarrollo Web
+
+En el ámbito del desarrollo web, manejo las siguientes tecnologías:
+
+- **React**
+- **Svelte**
+- **Python**
+- **Django** (Mi framework favorito)
+- **JavaScript**
+- **HTML**
+- **CSS, Tailwind, PostCSS**
+
+## Contacto
+
+Puedes encontrarme en:
+
+- [GitHub](https://github.com/Z0SO)
+- [Instagram](https://instagram.com/lautarorobales)
+¡Gracias por visitar mi perfil!
+
+---
