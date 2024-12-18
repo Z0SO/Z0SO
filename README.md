@@ -3,12 +3,14 @@
 ¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador con un gran interés en la programación de bajo nivel y los sistemas operativos Linux. Aquí tienes un poco más sobre mí:
 
 ## 🔭 En qué estoy trabajando
+- Armando scripts en bash para automatizar algunas cosas de instalacion de mi escritorio.
 - Explorando el mundo de **Rust** y mejorando mis habilidades en programación de bajo nivel.
 - Desarrollando proyectos interesantes con **Python**.
-- Sumergiéndome en el funcionamiento de los **sistemas operativos** y comprendiendo a fondo cómo funciona un **kernel**.
+- Sumergiéndome en el funcionamiento de los **sistemas operativos**.
 
 ## 🌱 Qué estoy aprendiendo
-- **Rust** para crear software eficiente y seguro.
+- **Ciberseguridad** a fondo.
+- **Rust** por diversion.
 - **Programación en bajo nivel** y arquitectura de computadoras.
 - Profundizando mis conocimientos en **kernels de sistemas operativos** como Linux.
 
@@ -18,15 +20,13 @@
 - Programación de bajo nivel y arquitectura de computadoras.
 
 ## 📫 Cómo contactarme
-- **Email:** [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com)
-- **LinkedIn:** [Tu perfil de LinkedIn](https://www.linkedin.com/in/tu-perfil)
-- **Twitter:** [@TuUsuarioDeTwitter](https://twitter.com/tu-usuario)
+- **Email:** [lautarorobales31@gmail.com](mailto:lautarorobales31@gmail.com)
 
 ## ⚡ Dato curioso
 - ¡Estoy obsesionado con entender cómo funcionan las computadoras y los sistemas operativos desde sus entrañas! 🖥️
 
 ## 🛠️ Lenguajes y Herramientas
-- **Lenguajes:** Rust, Python, C, C++
+- **Lenguajes:** Rust, Python, Bash, Javascript.
 - **Herramientas:** Git, Docker, Linux, GCC, GDB
 
 ---
